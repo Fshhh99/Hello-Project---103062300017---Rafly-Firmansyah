@@ -1,3 +1,6 @@
+//Nama : Rafly Firmansyah
+//NIM : 103062300017
+
 package main
 
 import (
